@@ -12,4 +12,4 @@ Containers:
  - doesent break because of os changes
 
 Images:
- - 
+ - is a blueprint from which an arbitary number of brand new containers can be started
